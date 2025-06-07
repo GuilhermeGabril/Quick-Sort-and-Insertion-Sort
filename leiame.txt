@@ -1,0 +1,3 @@
+Para executar o código existem 2 opções:
+- Abrir a pasta no VSCode e no terminal do VSCode utilizar o comando python sort.py
+- Abrir a pasta no PyCharm e clicar no botão de play que fica no canto superior direito
